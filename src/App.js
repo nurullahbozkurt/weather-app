@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import axios from "axios";
-import React, { useState } from "react";
-import { useEffect, useMemo } from "react/cjs/react.development";
+import React, { useState, useEffect, useMemo } from "react";
 import Home from "./components/Home";
 
 const App = () => {
